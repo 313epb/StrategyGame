@@ -4,73 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a5dce92692c90069",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff3ca62ea3a32171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Юниты/Оружие.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c90739765c0821c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Юниты/Тип шаблона модели.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a347aa46395a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Юниты/Цена отряда.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ed097cc4dad54d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Юниты/Характеристики отряда.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24517734b35b173b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Юниты/Тип шаблона модели.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "82efa666bd281480",
         "type": "tabs",
         "children": [
@@ -148,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Юниты/Тип шаблона модели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Юниты/Тип шаблона модели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Юниты/Тип шаблона модели.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -210,16 +139,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2c90739765c0821c",
+  "active": "7b2d8165783a793e",
   "lastOpenFiles": [
-    "Юниты/Характеристики отряда.md",
+    "Юниты/Тип шаблона модели.md",
+    "Юниты/Базовые характеристики отряда.md",
     "Юниты/Цена отряда.md",
     "Юниты/Оружие.md",
+    "Юниты/Здоровье модели.md",
+    "Юниты/Пассивные способности.md",
+    "Юниты/Активные способности.md",
+    "Юниты/Очки действий.md",
+    "Юниты/Ключевые слова.md",
+    "Юниты/Скоринг модели.md",
+    "Юниты/Зашита.md",
+    "Юниты/Количество моделей в отряде.md",
+    "Юниты/Формула пересчета полученного урона.md",
+    "Юниты/Тип оружия.md",
     "Медиа материалы",
-    "Юниты/Тип шаблона модели.md",
     "Карта/Сетка.md",
     "Карта",
-    "Юниты/Тип оружия.md",
     "Юниты",
     "Дальность.md"
   ]
