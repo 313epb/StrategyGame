@@ -1,0 +1,3 @@
+[submodule "DocumentationRepo"]
+	path = DocumentationRepo
+	url = https://github.com/313epb/DocumentationRepo
